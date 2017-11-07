@@ -30,7 +30,7 @@ Newsletter中所列举的数据库排名不分先后，如果没有上榜很可�
 
 |贡献者单位/职务|贡献者|贡献领域|
 |---|---|---|
-|DBAplus社群|	杨建荣、杨志洪、林林|
+|DBAplus社群|	杨建荣、杨志洪、林林|策划，通稿审核，发布
 |	PingCAP CTO兼联合创始人	|	黄东旭	|	TiDB 
 |	MongoDB中文社区发起人	|	唐建法	|	MongoDB
 |	PGer	|	德哥@Digoal	|	PostgreSQL
