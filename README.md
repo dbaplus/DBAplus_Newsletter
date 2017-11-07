@@ -16,3 +16,28 @@ Newsletter中所列举的数据库排名不分先后，如果没有上榜很可�
 
 ## Newsletter发布周期
 目前计划是`每两到三个月左右`会做一次跟进，下期计划时间是2018年2月19日~3月2日，如果有相关的信息提供请发送至邮箱：`newsletter@dbaplus.cn` 
+
+## 感谢名单
+最后要感谢那些提供宝贵信息和建议的专家朋友，排名不分先后。
+`第五期感谢名单`
+
+|贡献者单位/职务|贡献者|贡献领域|
+|---|---|---|
+|DBAplus社群|	杨建荣、杨志洪、林林|
+|	PingCAP CTO兼联合创始人	|	黄东旭	|	TiDB 
+|	MongoDB中文社区发起人	|	唐建法	|	MongoDB
+|	PGer	|	德哥@Digoal	|	PostgreSQL
+|	中国移动苏州研发中心	|	姚昕	|	Hadoop
+|	ArangoDB中国区负责人	|	Shelly@Germanwifi	|	ArangoDB
+|	Bloom Software CTO	|	杨旭钧	|	SnappyData
+|	Pivotal产品经理	|	李阳	|	Greenplum
+|	汽车之家技术专家	|	张海雷	|	Druid
+|	哈尔滨银行数据库架构师	|	洪烨	|	DB2
+|	武汉达梦数据库有限公司	|		|	达梦
+|	蚂蚁金服OceanBase研发	|	蒋志勇（恒谦）	|	OceanBase
+|	CockroachDB PMC Member	|	宋浩	|	CockroachDB
+|	巨杉数据库市场部经理	|	 李方舟	|	SequoiaDB
+|	互联网游戏公司DBA主管	|	林勇桦	|	SQL Server
+|	新炬网络开源技术专家	|	高强	|	MySQL
+|	Redis中国用户组主席	|	张冬洪	|	Redis文章，近期发布
+|	有赞数据库专家	|	杨奇龙	|	MySQL文章，近期发布
